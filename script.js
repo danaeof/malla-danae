@@ -124,4 +124,3 @@ document.getElementById('resetBtn').addEventListener('click', () => {
 });
 
 actualizarProgreso();
-
